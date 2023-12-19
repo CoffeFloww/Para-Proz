@@ -1,0 +1,56 @@
+# Metadados
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Exemplo de página HTML">
+    <meta name="author" content="Seu Nome">
+    <title>Minha Página HTML</title>
+</head>
+<body>
+    <!-- Conteúdo da página -->
+</body>
+</html>
+
+# Separação de conteúdo
+
+<div id="secao1">
+    <h2>Seção 1</h2>
+    <p>Conteúdo da seção 1...</p>
+</div>
+
+<div id="secao2">
+    <h2>Seção 2</h2>
+    <p>Conteúdo da seção 2...</p>
+</div>
+
+# Texto
+
+<p>Este é um parágrafo de texto.</p>
+<h1>Título Principal</h1>
+<h2>Subtítulo</h2>
+
+# Imagem
+
+<img src="exemplo.jpg" alt="Descrição da imagem">
+<img src="logo.png" alt="Logo da Empresa">
+
+#Formulário
+
+<form action="/enviar" method="post">
+    <label for="nome">Nome:</label>
+    <input type="text" id="nome" name="nome">
+
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email">
+
+    <button type="submit">Enviar</button>
+</form>
+
+<form action="/buscar" method="get">
+    <label for="busca">Buscar:</label>
+    <input type="text" id="busca" name="busca">
+
+    <button type="submit">Buscar</button>
+</form>
