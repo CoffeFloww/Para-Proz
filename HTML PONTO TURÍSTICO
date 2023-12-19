@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Ponto Turístico - Bom Jesus dos Perdões">
+    <meta name="author" content="Seu Nome">
+    <title>Ponto Turístico - Bom Jesus dos Perdões</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+        header, footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ponto Turístico - Bom Jesus dos Perdões</h1>
+    </header>
+
+    <main>
+        <h2>Cachoeira da Esperança</h2>
+        <p>A Cachoeira da Esperança é um dos pontos turísticos mais encantadores de Bom Jesus dos Perdões. Localizada em meio à natureza exuberante, a cachoeira oferece uma experiência única para os visitantes.</p>
+
+        <img src="cachoeira.jpg" alt="Cachoeira da Esperança">
+        <p>Vista deslumbrante da Cachoeira da Esperança.</p>
+
+        <p>Além da beleza natural, a região também conta com trilhas ecológicas e áreas para piquenique, proporcionando momentos de lazer e contato direto com a natureza.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Ponto Turístico - Bom Jesus dos Perdões</p>
+    </footer>
+</body>
+</html>
