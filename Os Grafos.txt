@@ -1,0 +1,15 @@
+OS GRAFOS (em algoritmo)
+
+Os grafos são estruturas matemáticas que consistem em nós (ou vértices) conectados por arestas (ou arcos). Eles são amplamente utilizados na ciência da computação e têm diversas aplicações no contexto tecnológico. Aqui estão dois exemplos de como os grafos são utilizados:
+
+ Redes Sociais
+
+ Descrição:
+Muitas plataformas de mídia social, como Facebook, Twitter e LinkedIn, utilizam grafos para modelar e representar as relações entre usuários. Cada usuário é representado por um nó no grafo, e as conexões entre eles (amizades, seguidores, conexões profissionais) são representadas por arestas.
+Essa representação de grafo facilita a análise de redes sociais, recomendações de amigos ou conexões, identificação de comunidades e detecção de padrões de comportamento.
+
+ Roteamento de Redes de Computadores
+
+ Descrição:
+Em redes de computadores, os grafos são amplamente utilizados para modelar a topologia física ou lógica das redes.
+Cada dispositivo (roteador, switch, servidor) é representado por um nó, e as conexões entre esses dispositivos são representadas por arestas. Algoritmos de grafos são aplicados para encontrar os caminhos mais eficientes para a transmissão de dados, otimizando o roteamento em redes complexas.
