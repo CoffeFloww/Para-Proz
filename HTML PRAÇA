@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Praça de Eventos - Bom Jesus dos Perdões">
+    <meta name="author" content="Seu Nome">
+    <title>Praça de Eventos - Bom Jesus dos Perdões</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+        }
+        header, footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Praça de Eventos - Bom Jesus dos Perdões</h1>
+    </header>
+
+    <main>
+        <h2>Praça de Eventos Municipal</h2>
+        <p>A Praça de Eventos Municipal é um espaço multifuncional projetado para sediar uma variedade de eventos na cidade de Bom Jesus dos Perdões. Localizada no coração da cidade, a praça oferece um ambiente acolhedor e versátil para diferentes atividades.</p>
+
+        <img src="praca-eventos1.jpg" alt="Praça de Eventos - Bom Jesus dos Perdões">
+        <p>Vista da Praça de Eventos durante um evento noturno.</p>
+
+        <img src="praca-eventos2.jpg" alt="Praça de Eventos - Bom Jesus dos Perdões">
+        <p>O espaço é utilizado para festivais, shows, feiras culturais e outras celebrações que promovem a interação comunitária e cultural.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Praça de Eventos - Bom Jesus dos Perdões</p>
+    </footer>
+</body>
+</html>
